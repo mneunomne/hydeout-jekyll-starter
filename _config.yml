@@ -3,8 +3,8 @@ title: Hydeout
 tagline: A Jekyll theme
 description: The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme
   for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.
-url: 
-baseurl:
+url: 'https://mneunomne.github.io/hydeout-jekyll-starter/'
+baseurl: 'https://mneunomne.github.io/hydeout-jekyll-starter/'
 author:
   name: Andrew Fong
   url: https://twitter.com/fongandrewc
